@@ -3,7 +3,7 @@
 > Some JS chunks of code
 
 - Event Listener
-  - [Self Removed Event Listener](./Event_Listener/Self_Removed _Event _listener/)
+  - [Self Removed Event Listener](./Event_Listener/Self_Removed_Event_listener)
 
 __Author:__
 
